@@ -1,4 +1,4 @@
-# NOTES OF FLASK WEBSITE 
+# Flask notes
 * sudo pip install virtualenv
 * virtualenv venv-test1
 * cd venv-test1
@@ -6,7 +6,7 @@
 * cd ./activate
 
 
-# VIRTUAL WITH PYTHON PACKAGE
+# Virtual with Python Package
 * virtualenv -p python p3-env1
 * source ~/p3-env1/bin/activate (ANOTHER WAY TO ACTIVATE)
 * virtualenv -p python3 flask-env1
@@ -16,7 +16,7 @@
   python ./app.py
   type in localhost:5000 (port number)
 
-# DEMO PRACTICE
+# Demo practice
 * virtualenv -p python3 myproject
 * name doc example.html 
 * template
@@ -29,7 +29,7 @@
   return rener template (index.html)
 
 
-# Resource
+# Resources
 purestylesheet.com- good recource
 href=purebuttong
 
